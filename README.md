@@ -37,11 +37,15 @@ MIDI_Connect_V2_3.uasset
 
 
 
-[![](https://github.com/videofeedback/Slider_Beta/blob/main/cnc_shield_pin-out.png)](https://github.com/videofeedback/Slider_Beta/blob/main/cnc_shield_pin-out.png)
+[![](https://github.com/videofeedback/Slider_Beta/blob/main/amazon_slider_01.jpg)](https://github.com/videofeedback/Slider_Beta/blob/main/amazon_slider_01.jpg)
 
+[![](https://github.com/videofeedback/Slider_Beta/blob/main/amazon_slider_02.jpg)](https://github.com/videofeedback/Slider_Beta/blob/main/amazon_slider_02.jpg)
 
+[![](https://github.com/videofeedback/Slider_Beta/blob/main/STEPPER_MOTOR_CONFIGURATION.png)](https://github.com/videofeedback/Slider_Beta/blob/main/STEPPER_MOTOR_CONFIGURATION.png)
 
+[![](https://github.com/videofeedback/Slider_Beta/blob/main/CNC-SHIELD-PINOUT.png)](https://github.com/videofeedback/Slider_Beta/blob/main/CNC-SHIELD-PINOUT.png)
 
+[![](https://github.com/videofeedback/Slider_Beta/blob/main/STEPPER_DRIVER_A4988.png)](https://github.com/videofeedback/Slider_Beta/blob/main/STEPPER_DRIVER_A4988.png)
 
 
 
